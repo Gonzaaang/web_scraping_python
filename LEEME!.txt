@@ -1,0 +1,6 @@
+Mini proyecto de Web Scraping con Python!
+
+El mismo recibe a traves de un input una zona buscada de trabajo, por ejemplo "Capital".
+Busca en la pagina web de computrabajo las postulaciones disponibles que coincidan con la busqueda y las muestra en consola.
+
+
